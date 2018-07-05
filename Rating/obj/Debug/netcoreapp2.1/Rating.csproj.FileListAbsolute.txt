@@ -1,0 +1,11 @@
+C:\Users\director\Rating\bin\Debug\netcoreapp2.1\Rating.deps.json
+C:\Users\director\Rating\bin\Debug\netcoreapp2.1\Rating.runtimeconfig.json
+C:\Users\director\Rating\bin\Debug\netcoreapp2.1\Rating.runtimeconfig.dev.json
+C:\Users\director\Rating\bin\Debug\netcoreapp2.1\Rating.dll
+C:\Users\director\Rating\bin\Debug\netcoreapp2.1\Rating.pdb
+C:\Users\director\Rating\obj\Debug\netcoreapp2.1\Rating.csprojAssemblyReference.cache
+C:\Users\director\Rating\obj\Debug\netcoreapp2.1\Rating.csproj.CoreCompileInputs.cache
+C:\Users\director\Rating\obj\Debug\netcoreapp2.1\Rating.AssemblyInfoInputs.cache
+C:\Users\director\Rating\obj\Debug\netcoreapp2.1\Rating.AssemblyInfo.cs
+C:\Users\director\Rating\obj\Debug\netcoreapp2.1\Rating.dll
+C:\Users\director\Rating\obj\Debug\netcoreapp2.1\Rating.pdb
